@@ -17,3 +17,6 @@ Note: Include the CFLAG -mavx2 only if the machine provides AVX2 support (To che
 
 # Execution :
 `himenobmtxpa s`
+
+# References :
+[1] http://accc.riken.jp/en/supercom/himenobmt, download at http://accc.riken.jp/en/supercom/himenobmt/download/98-source/ 
